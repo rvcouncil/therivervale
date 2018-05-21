@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "93354269711",
+    "firebase_url": "https://therivervale-e6e46.firebaseio.com",
+    "project_id": "therivervale-e6e46",
+    "storage_bucket": "therivervale-e6e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93354269711:android:1fdbb64b8d89fb61",
+        "android_client_info": {
+          "package_name": "com.example.orbitalnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93354269711-2pm0p2p3g05d2e4hcqnh0e82kbcmf6eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4NXH6OZkGOD2GkDyzBfx-TJpRNa4om4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
